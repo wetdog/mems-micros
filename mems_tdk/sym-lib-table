@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name mems_tdk-rescue)(type Legacy)(uri ${KIPRJMOD}/mems_tdk-rescue.lib)(options "")(descr ""))
+  (lib (name ICS-43432)(type Legacy)(uri "/home/aaccol/Escritorio/AAC/ARZA TIC/mems/ICS-43432.lib")(options "")(descr ""))
+)
